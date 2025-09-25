@@ -1,3 +1,3 @@
 # Demo
 This is my first repositary
-Author - Goutam
+Author - Goutam Parmar
